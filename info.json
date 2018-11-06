@@ -101,106 +101,55 @@
   ],
   "events": [
     {
-      "title": "8:00 am",
+      "title": "17:45pm",
       "data": [
-        { "name" : "Breakfast", "time": "8:00 am - 9:00 am", "place": "Main hallway", "color":"#33E4F0"},
-        { "name" : "Meet and Greet", "time": "9:00 am - 9:15 am", "place": "Main hallway", "color":"#33E4F0"}
+        { "name" : "Entrance/Register", "time": "17:45 pm - 18:00 pm", "place": "La Scala Theatre", "color":"#33E4F0"},
+        { "name" : "Introduction: Programme Directors.", "time": "18:00 pm - 18:02 pm", "place": "La Scala Theatre", "color":"#33E4F0"}
       ]
     },
     {
-      "title": "9:15 am",
+      "title": "18:02 pm",
       "data": [
-        { "name" : "Introduction to Booster.io", "time": "9:15 am - 9:30 am", "place": "Room 2203", "color":"#3392F0", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Getting started with React Native", "time": "9:30 am - 9:45 am", "place": "Room 2202", "color":"#3392F0", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Advanced JSX", "time": "9:45 am - 10:00 am", "place": "Room 2204", "color":"#F05233", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+        { "name" : "Official Welcome", "time": "18:02 pm - 18:10 pm", "place": "La Scala Theatre", "color":"#3392F0", 
+          "speaker":"Nigel Ward, Deputy President",
+          "description": "Durban Chamber of Commerce and Industry."},
+        { "name" : "Her worship the Mayor of eThekwini Municipality, Councillor", "time": "18:10 pm - 18:15 pm", "place": "La Scala Theatre", "color":"#3392F0", 
+          "speaker":"Zandile Gumede",
+          "description": "Mayor of eThekwini Municipality, Councillor"},
+        { "name" : "The Honourable. Mr Thembinkosi Willies Mchunu", "time": "18:15 am - 18:20 pm", "place": "La Scala Theatre", "color":"#F05233", 
+          "speaker":"Premier of KwaZulu-Natal",
+          "description": "Mayor of eThekwini Municipality, Councillor"}
       ]
     },
     {
-      "title": "10:00 am",
+      "title": "18:20 am",
       "data": [
-        { "name" : "Migration to Expo", "time": "10:00 am - 10:15 am", "place": "Room 2203", "color":"#C12071", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "React Native SVG Icons", "time": "10:15 am - 10:30 am", "place": "Room 2202", "color":"#30C120", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "HapiJS Services", "time": "10:30 am - 10:45 am", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Workshop - Advanced JSX", "time": "10:45 am - 11:00 am", "place": "Room 2201", "color":"#36BBE4", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+        { "name" : "Platinum Sponsor", "time": "18:20 pm - 18:30 pm", "place": "La Scala Theatre", "color":"#C12071", 
+          "speaker":"Ross Volk",
+          "description": "MSC Video Intro Platinum Sponsor’s by Managing Director, Mediterranean Shipping Company (MSC) Cruises South Africa "},
+        { "name" : "Gold Sponsor – Vodacom", "time": "18:30 pm - 18:40 pm", "place": "La Scala Theatre", "color":"#30C120", 
+          "speaker":"Eleni Kwinana",
+          "description": "Video Intro; and Gold Sponsor’s by Executive Head of Department: Enterprise Business Unit (EBU), Vodacom. "},
+        { "name" : "Gold Sponsor : Huawei Video Intro", "time": "18:40 pm - 18:50 pm", "place": "La Scala Theatre", "color":"#DEC311", 
+          "speaker":"Zhao Likun, Vice",
+          "description": "Video Intro; and Gold Sponsor’s by President: Consumer Business Group, Huawei Southern Africa"},
+        { "name" : "Announcement", "time": "18:50 pm - 19:00 pm", "place": "La Scala Theatre", "color":"#36BBE4", 
+          "speaker":"Musa Makhunga",
+          "description": "Announcement by President, Durban Chamber of Commerce and Industry"}
       ]
     },
     {
-      "title": "11:00 am",
+      "title": "19:00 pm",
       "data": [
-        { "name" : "Migration from Ionic", "time": "11:00 am - 11:15 am", "place": "Room 2203", "color":"#C12071", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Community Integration", "time": "11:15 am - 11:30 am", "place": "Room 2202", "color":"#808080", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Feathers Workshop", "time": "11:30 am - 12:00 pm", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-      ]
-    },
-    {
-      "title": "12:00 pm",
-      "data": [
-        { "name" : "Lunch", "time": "12:00 pm - 1:15 pm", "place": "Auditorium", "color":"#33E4F0"}
-      ]
-    },
-    {
-      "title": "1:15 pm",
-      "data": [
-        { "name" : "Introduction to Booster.io", "time": "1:15 pm - 1:30 pm", "place": "Room 2203", "color":"#3392F0", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Getting started with React Native", "time": "1:30 pm - 1:45 pm", "place": "Room 2202", "color":"#3392F0", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Advanced JSX", "time": "1:45 pm - 2:00 pm", "place": "Room 2204", "color":"#F05233", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-      ]
-    },
-    {
-      "title": "2:00 pm",
-      "data": [
-        { "name" : "Migration to Expo", "time": "2:00 pm - 2:15 pm", "place": "Room 2203", "color":"#C12071", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "React Native SVG Icons", "time": "2:15 pm - 2:30 pm", "place": "Room 2202", "color":"#30C120", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "HapiJS Services", "time": "2:30 pm - 2:45 pm", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Workshop - Advanced JSX", "time": "2:45 pm - 3:00 pm", "place": "Room 2201", "color":"#36BBE4", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-      ]
-    },
-    {
-      "title": "3:00 pm",
-      "data": [
-        { "name" : "Migration from Ionic", "time": "3:00 pm - 3:15 pm", "place": "Room 2203", "color":"#C12071", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Community Integration", "time": "3:15 pm - 3:30 pm", "place": "Room 2202", "color":"#808080", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Feathers Workshop", "time": "3:30 pm - 4:00 pm", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+        { "name" : "Keynote Addres", "time": "19:00 pm - 20:20 pm", "place": "La Scala Theatre", "color":"#C12071", 
+          "speaker":"Doris Viljoen",
+          "description": "Senior Futurist, Institute for Futures Research (IFR)"},
+        { "name" : "Vote of Thanks", "time": "19:20 pm - 19:30 pm", "place": "La Scala Theatre", "color":"#808080", 
+          "speaker":"Palesa Phili",
+          "description": "CEO, Durban Chamber of Commerce and Industry."},
+        { "name" : "End of Formalities", "time": "19:30 pm - End", "place": "La Scala Theatre", "color":"#DEC311", 
+          "speaker":"Exit from theatre on Deck 7",
+          "description": "Thank you!!"}
       ]
     }
   ]
