@@ -1,0 +1,84 @@
+[
+    {
+        "id": 2,
+        "userUid": "09F4402C-5A95-4BA4-8A5F-5F2AE5D4F67A",
+        "firstName": "Thuli",
+        "lastName": "Sindi",
+        "emailAddress": "thuli@gmail.com",
+        "cell": null,
+        "about": null,
+        "userType": null,
+        "dateCreated": "2019-05-24T04:47:46.77",
+        "dateModified": "2019-05-24T04:47:46.77",
+        "isDeleted": null,
+        "albumn": [
+            {
+                "id": 1,
+                "albumnUid": "62215033-6960-43A3-8127-41B4E7DAB351",
+                "userUid": "09F4402C-5A95-4BA4-8A5F-5F2AE5D4F67A",
+                "title": "Ethnic fashion style",
+                "description": "Ethnic fashion style",
+                "dateCreated": "2019-05-24T19:20:14.707",
+                "dateModified": "2019-05-24T19:20:14.707",
+                "isDeleted": null
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "userUid": "1DC24935-4FBB-425D-8603-D0E730710304",
+        "firstName": "Palesa",
+        "lastName": "Makabung",
+        "emailAddress": "palesa@gmail.com",
+        "cell": null,
+        "about": null,
+        "userType": null,
+        "dateCreated": "2019-05-24T04:48:21.61",
+        "dateModified": "2019-05-24T04:48:21.61",
+        "isDeleted": null,
+        "albumn": []
+    },
+    {
+        "id": 5,
+        "userUid": "4AECA74A-17E8-469F-94EE-DC46A0F3AC48",
+        "firstName": "Michelle",
+        "lastName": "Ludek",
+        "emailAddress": "ludek@gmail.com",
+        "cell": null,
+        "about": null,
+        "userType": null,
+        "dateCreated": "2019-05-24T04:49:29.187",
+        "dateModified": "2019-05-24T04:49:29.187",
+        "isDeleted": null,
+        "albumn": []
+    },
+    {
+        "id": 4,
+        "userUid": "82F384E0-2D52-4EB6-BA70-7FC6523C73CF",
+        "firstName": "Laduma",
+        "lastName": "MaXhosa",
+        "emailAddress": "maxhosa@gmail.com",
+        "cell": null,
+        "about": null,
+        "userType": null,
+        "dateCreated": "2019-05-24T04:48:53.973",
+        "dateModified": "2019-05-24T04:48:53.973",
+        "isDeleted": null,
+        "albumn": []
+    },
+    {
+        "id": 1,
+        "userUid": "D521DCE9-7700-4271-8782-7D4A34162D2A",
+        "firstName": "David",
+        "lastName": "Tlale",
+        "emailAddress": "david@gmail.com",
+        "cell": null,
+        "about": null,
+        "userType": null,
+        "dateCreated": "2019-05-24T04:47:11.63",
+        "dateModified": "2019-05-24T04:47:11.63",
+        "isDeleted": null,
+        "albumn": []
+    }
+]
+
