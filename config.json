@@ -1,0 +1,14 @@
+{
+  "companies": [
+    {
+      "name": "Bakubung Plantinum Mine",
+      "api": "154.117.170.8",
+      "imageUrl": "https://www.krodac.co.za/bpm.png"
+    },
+    {
+      "name": "Krodac",
+      "api": "154.117.170.8",
+      "imageUrl": "https://www.krodac.co.za/krodac.png"
+    }
+  ]
+}
