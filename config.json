@@ -3,12 +3,12 @@
     {
       "name": "Bakubung Plantinum Mine",
       "api": "154.117.170.8",
-      "imageUrl": "https://www.krodac.co.za/bpm.png"
+      "imageUrl": "https://github.com/zolamadolo/resources/blob/master/Bakubung_logo.jpg?raw=true"
     },
     {
       "name": "Krodac",
       "api": "154.117.170.8",
-      "imageUrl": "https://www.krodac.co.za/krodac.png"
+      "imageUrl": "https://github.com/zolamadolo/resources/blob/master/viticus_icon.png?raw=true"
     }
   ]
 }
